@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="db354b62-7648-4e55-b31e-24a9fe0588a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/AMM.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/AMM.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zona10.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/zona10.geojson" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +19,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AMM.geojson">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
+            <state relative-caret-position="195">
+              <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zona5.geojson">
+        <entry file="file://$PROJECT_DIR$/zona10.geojson">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -82,8 +83,9 @@
         <option value="$USER_HOME$/Downloads/canelones-municipios-zona-9.geojson" />
         <option value="$USER_HOME$/Downloads/canelones-municipios-zona-8.geojson" />
         <option value="$PROJECT_DIR$/zona8.geojson" />
-        <option value="$USER_HOME$/Downloads/canelones-municipios.geojson" />
         <option value="$PROJECT_DIR$/zona5.geojson" />
+        <option value="$USER_HOME$/Downloads/canelones-municipios.geojson" />
+        <option value="$PROJECT_DIR$/zona10.geojson" />
         <option value="$PROJECT_DIR$/AMM.geojson" />
       </list>
     </option>
@@ -182,12 +184,12 @@
       <workItem from="1587829666014" duration="590000" />
       <workItem from="1587848146850" duration="2469000" />
       <workItem from="1587991988966" duration="51000" />
-      <workItem from="1593023547763" duration="4194000" />
+      <workItem from="1593023547763" duration="4443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14832000" />
+    <option name="totallyTimeSpent" value="15081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="6" />
@@ -341,24 +343,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zona10.geojson">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zona7.geojson">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="4" selection-start-column="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canelones-municipios.geojson">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -369,17 +357,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/canelones-municipios.geojson">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/zona5.geojson">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/canelones-municipios.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="24" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/canelones-municipios.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -390,10 +385,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/zona10.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zona10.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AMM.geojson">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
+        <state relative-caret-position="195">
+          <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
         </state>
       </provider>
     </entry>
