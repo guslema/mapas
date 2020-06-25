@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db354b62-7648-4e55-b31e-24a9fe0588a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/AMM.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/AMM.geojson" afterDir="false" />
-    </list>
+    <list default="true" id="db354b62-7648-4e55-b31e-24a9fe0588a9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,12 +191,12 @@
       <workItem from="1587829666014" duration="590000" />
       <workItem from="1587848146850" duration="2469000" />
       <workItem from="1587991988966" duration="51000" />
-      <workItem from="1593023547763" duration="5634000" />
+      <workItem from="1593023547763" duration="6055000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16272000" />
+    <option name="totallyTimeSpent" value="16693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="6" />
