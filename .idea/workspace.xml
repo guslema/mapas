@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/zona10.geojson">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" selection-start-line="4" selection-end-line="5" />
+              <caret line="5" lean-forward="true" selection-start-line="4" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -175,12 +175,12 @@
       <workItem from="1587991988966" duration="51000" />
       <workItem from="1593023547763" duration="6055000" />
       <workItem from="1593120170118" duration="2702000" />
-      <workItem from="1593175617744" duration="3720000" />
+      <workItem from="1593175617744" duration="3903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23115000" />
+    <option name="totallyTimeSpent" value="23298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="6" />
@@ -408,7 +408,7 @@
     <entry file="file://$PROJECT_DIR$/zona10.geojson">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" selection-start-line="4" selection-end-line="5" />
+          <caret line="5" lean-forward="true" selection-start-line="4" selection-end-line="5" />
         </state>
       </provider>
     </entry>
