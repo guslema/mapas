@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db354b62-7648-4e55-b31e-24a9fe0588a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AMM_v2.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/AMM_v2.geojson" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zona8.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/zona8.geojson" afterDir="false" />
     </list>
@@ -176,12 +175,12 @@
       <workItem from="1587991988966" duration="51000" />
       <workItem from="1593023547763" duration="6055000" />
       <workItem from="1593120170118" duration="2702000" />
-      <workItem from="1593175617744" duration="177000" />
+      <workItem from="1593175617744" duration="1400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19572000" />
+    <option name="totallyTimeSpent" value="20795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="6" />
