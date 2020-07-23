@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db354b62-7648-4e55-b31e-24a9fe0588a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gsp_zona4.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gsp_zona4.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/gsp_zona4.geojson" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GSP.geojson">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="9" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="230">
+              <caret line="18" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/gsp_zona4.geojson">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -195,12 +195,12 @@
       <workItem from="1593120170118" duration="2702000" />
       <workItem from="1593175617744" duration="5838000" />
       <workItem from="1593531159473" duration="518000" />
-      <workItem from="1595526312366" duration="4256000" />
+      <workItem from="1595526312366" duration="4291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30007000" />
+    <option name="totallyTimeSpent" value="30042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
@@ -448,15 +448,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GSP.geojson">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="9" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="230">
+          <caret line="18" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gsp_zona4.geojson">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
