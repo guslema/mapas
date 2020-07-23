@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="db354b62-7648-4e55-b31e-24a9fe0588a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/GSP_v2.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/GSP_v2.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gsp_zona4.geojson" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GSP.geojson">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gsp_zona4.geojson">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="30965" lean-forward="true" selection-start-line="4" selection-start-column="465" selection-end-line="4" selection-end-column="30965" />
+            <state relative-caret-position="615">
+              <caret line="43" column="206" selection-start-line="43" selection-start-column="199" selection-end-line="43" selection-end-column="206" />
             </state>
           </provider>
         </entry>
@@ -36,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GSP_v2.geojson">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="15" column="30625" lean-forward="true" selection-start-line="15" selection-start-column="30625" selection-end-line="15" selection-end-column="30625" />
+            <state relative-caret-position="535">
+              <caret line="37" column="74" selection-start-line="37" selection-start-column="74" selection-end-line="37" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -195,12 +187,12 @@
       <workItem from="1593120170118" duration="2702000" />
       <workItem from="1593175617744" duration="5838000" />
       <workItem from="1593531159473" duration="518000" />
-      <workItem from="1595526312366" duration="4596000" />
+      <workItem from="1595526312366" duration="4888000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30347000" />
+    <option name="totallyTimeSpent" value="30639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
@@ -439,13 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GSP.geojson">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gsp_zona4.geojson">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -453,10 +438,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GSP.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="43" column="206" selection-start-line="43" selection-start-column="199" selection-end-line="43" selection-end-column="206" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GSP_v2.geojson">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="15" column="30625" lean-forward="true" selection-start-line="15" selection-start-column="30625" selection-end-line="15" selection-end-column="30625" />
+        <state relative-caret-position="535">
+          <caret line="37" column="74" selection-start-line="37" selection-start-column="74" selection-end-line="37" selection-end-column="74" />
         </state>
       </provider>
     </entry>
